@@ -1,0 +1,44 @@
+.font-lato {
+    font-family: 'Lato', sans-serif !important
+}
+
+body {
+    background-color: #ebeff5 !important;
+    font-weight: 300;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 300;
+}
+
+.custom-card-body {
+    background-color: #f5f7fc
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-left {
+    text-align: left !important;
+}
+
+.profile-link {
+    padding: 12px 10px !important;
+}
+
+.vehicle-list-item {
+
+    &:hover {
+        background: #39ABB5 !important;
+        box-shadow: 0 2px 2px 0 #BBC1C2 !important;
+        border-radius: 2px !important;
+    }
+}
+
+.menu-item-active {
+    color: #FFFFFF !important;
+    text-decoration: none !important;
+    background: #39ABB5 !important;
+    border-radius: 2px !important;
+}
