@@ -1,3 +1,7 @@
+#Blood Bank front end
+
+This project aims towards making a website to act as a blood bank. Connecting donors and receivers. 
+
 ## Folder Structure
 
 You may create subdirectories inside `src`. For faster rebuilds, only files inside `src` are processed by Webpack.<br>
