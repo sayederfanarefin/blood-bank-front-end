@@ -4,7 +4,7 @@
 
 [![HitCount](http://hits.dwyl.io/sayederfanarefin/blood-bank-front-end.svg)](http://hits.dwyl.io/sayederfanarefin/blood-bank-front-end)
 
-[![Inline docs](http://inch-ci.org/github/{ORG-or-USERNAME}/{REPO-NAME}.svg?branch=master)](http://inch-ci.org/github/{ORG-or-USERNAME}/{REPO-NAME})
+[![Inline docs](http://inch-ci.org/github/sayederfanarefin/blood-bank-front-end.svg?branch=master)](http://inch-ci.org/github/sayederfanarefin/blood-bank-front-end)
 
 This project aims towards making a website to act as a blood bank. Connecting donors and receivers. 
 
